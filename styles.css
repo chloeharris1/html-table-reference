@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: #CCC2C0;
+    font-family: 'Poppins', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #A68B7F;
+    text-align: center;
+}
+
+table {
+    border: 2px solid #A68B7F;
+    background-color: #EBE6E1;
+    align-content: center;
+    width: 650px;
+    margin: 0 auto;
+    border-spacing: 2px;
+}
+
+.thead {
+    background-color: #D9ACA0;
+    text-align: center;
+}
+
+tr {
+    text-align: left;
+}
+
+td {
+    border-top: 1px solid #A68B7F;
+}
+
+span {
+    font-family: monospace;
+    background-color: beige;
+    border-top: 1px #A68B7F;
+}
