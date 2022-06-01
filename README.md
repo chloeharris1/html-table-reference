@@ -1,4 +1,6 @@
-# HTML Table Reference 
+# HTML Table Reference
+
+![license badge](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
 A HTML and CSS project documenting the tags and attributes used in HTML tables layouts.
@@ -7,6 +9,8 @@ A HTML and CSS project documenting the tags and attributes used in HTML tables l
 
 ![HTMLtable](https://user-images.githubusercontent.com/89039793/159593309-9b7917cc-7e8a-4a46-a11b-ac615c1dd759.png)
 
+## License
+Licensed under the MIT license.
 
 ## Questions 
 [Email Me](Chloe.a.harris17@gmail.com) if you have any questions.
